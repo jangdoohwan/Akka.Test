@@ -7,6 +7,13 @@
       <root url="jar://$PROJECT_DIR$/libs/akka/akka-cluster_2.11-2.4.16.jar!/" />
       <root url="jar://$PROJECT_DIR$/libs/akka/scala-library-2.11.8.jar!/" />
       <root url="jar://$PROJECT_DIR$/libs/akka/config-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/akka/akka-stream_2.11-2.4.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/akka/akka-parsing-experimental_2.11-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/akka/akka-slf4j_2.11-2.4.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/akka/ssl-config-core_2.11-0.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/akka/scala-parser-combinators_2.11-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/akka/scala-java8-compat_2.11-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/akka/reactive-streams-1.0.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
